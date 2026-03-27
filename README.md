@@ -43,12 +43,3 @@ A powerful, automated stock monitoring system with live prices, technical indica
 ```bash
 git clone https://github.com/karimali900/last_stock_dashboard.git
 cd last_stock_dashboard
-## pip install -r requirements.txt
-## EMAIL_PASSWORD=your_gmail_app_password
-DB_PASSWORD=
-
-then run streamlit run stock_dashboard.py
- Author:Karim El-Masri
-Stock Market Automation Project
-
-
